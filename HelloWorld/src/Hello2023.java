@@ -1,7 +1,7 @@
 
 public class Hello2023 {
 	
-	//main() ¸Ş¼Òµå¿¡¼­ ½ÇÇà ½ÃÀÛ
+	//main() mainì—ì„œ ì‹¤í–‰í•˜ê¸°
 	public static void main(String[] args) {
 		var price =200;
 		var name="kitae";
